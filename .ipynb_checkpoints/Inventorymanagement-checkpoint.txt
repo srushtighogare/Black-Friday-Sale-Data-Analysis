@@ -1,4 +1,0 @@
-1,kitkat,25,33
-2, milkybar,30,50
-3,cake,300,3
-4,mint,50,150
